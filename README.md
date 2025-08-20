@@ -46,7 +46,8 @@ npm start
 </pre>
 
 <h2>📸 Screenshot</h2>
-<p>_(Add your app screenshot here)_</p>
+<img width="589" height="568" alt="image" src="https://github.com/user-attachments/assets/084adf41-b1dc-4bfd-8263-0fcc986b7f5b" />
+
 
 <h2>📝 License</h2>
 <p>This project is licensed under the MIT License.</p>
